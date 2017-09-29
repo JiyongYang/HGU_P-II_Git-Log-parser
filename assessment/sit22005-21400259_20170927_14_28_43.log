@@ -1,0 +1,91 @@
+"JINKI NOH, Wed Sep 27 03:32:42 2017 +0000, hw4commit4"
+ homework04/21400259_homework04.JPG | Bin 0 -> 28855 bytes
+ homework04/21400259_homework04.cpp |  12 ++++++------
+ 2 files changed, 6 insertions(+), 6 deletions(-)
+
+"JINKI NOH, Wed Sep 27 03:14:21 2017 +0000, hw43rdcommit"
+ homework04/21400259_homework04.cpp | 6 ++++--
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+
+"JINKI NOH, Wed Sep 27 03:08:58 2017 +0000, 2ndCommit"
+ homework01/21400259_homework01.cpp |  13 +++++++++++++
+ homework01/21400259_homework01.jpg | Bin 0 -> 92800 bytes
+ 2 files changed, 13 insertions(+)
+
+"JINKI NOH, Wed Sep 27 03:03:54 2017 +0000, 1st"
+ Homework3                          |  1 +
+ homework02                         |  1 +
+ homework04/21400259_homework04.cpp | 27 +++++++++++++++++++++++++++
+ 3 files changed, 29 insertions(+)
+
+"JINKI NOH, Wed Sep 20 12:14:38 2017 +0000, 3rdpic"
+ 21400259_homework03.JPG | Bin 0 -> 39357 bytes
+ ddf.cpp                 |  31 -------------------------------
+ 2 files changed, 31 deletions(-)
+
+"JINKI NOH, Wed Sep 20 12:14:38 2017 +0000, 3rd"
+ 21400259_homework03.cpp | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+"JINKI NOH, Wed Sep 20 12:14:38 2017 +0000, 2nd"
+ 21400259_homework03.cpp | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+"JINKI NOH, Wed Sep 20 12:14:38 2017 +0000, 1st"
+ 21400259_homework03.cpp | 4 ++--
+ 21400250.cpp => ddf.cpp | 0
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+"JINKI NOH, Wed Sep 20 12:14:38 2017 +0000, 3rd"
+ 21400259_homework03.cpp | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+"JINKI NOH, Wed Sep 20 12:14:38 2017 +0000, 2nd"
+ 21400259_homework03.cpp | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+"JINKI NOH, Wed Sep 20 12:14:38 2017 +0000, 1st"
+ 21400250.cpp            | 31 +++++++++++++++++++++++++++++++
+ 21400259_homework03.cpp | 31 +++++++++++++++++++++++++++++++
+ 2 files changed, 62 insertions(+)
+
+"JINKI NOH, Tue Sep 19 16:10:11 2017 +0000, 2ndhomeworkpic"
+ 21400259_homework02.JPG | Bin 53009 -> 27352 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+"JINKI NOH, Sat Sep 16 17:24:41 2017 +0000, homework2pic"
+ 21400259_homework02.JPG | Bin 0 -> 53009 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+"JINKI NOH, Sat Sep 16 17:20:17 2017 +0000, 3rdcommit"
+ 21400259_homework02.cpp | 22 ++++++++++++++++++++++
+ 1 file changed, 22 insertions(+)
+
+"JINKI NOH, Sat Sep 16 17:20:17 2017 +0000, 2ndcommit"
+ 21400259_homework02.cpp | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+"JINKI NOH, Sat Sep 16 17:20:17 2017 +0000, 1stcommit"
+ 21400259_homework02.cpp | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+"JINKI NOH, Wed Sep 13 17:19:41 2017 +0000, homeworkpic"
+ 21400259_homework01.jpg | Bin 0 -> 92800 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+"JINKI NOH, Wed Sep 13 17:10:07 2017 +0000, funcs"
+ 21400259_homework01.cpp | 7 +++++--
+ 1 file changed, 5 insertions(+), 2 deletions(-)
+
+"JINKI NOH, Wed Sep 13 17:06:45 2017 +0000, init"
+ 21400259_homework01.cpp | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+
+"GitHub, Fri Sep 8 10:20:11 2017 +0900, Update hello.cc"
+ hello.cc | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+"Joshua Jung, Fri Sep 8 10:16:52 2017 +0900, init"
+ README.md | 1 +
+ hello.cc  | 0
+ 2 files changed, 1 insertion(+)

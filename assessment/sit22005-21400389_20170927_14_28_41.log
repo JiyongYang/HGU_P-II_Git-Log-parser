@@ -1,0 +1,55 @@
+"Ga Ram Song, Tue Sep 26 07:11:02 2017 +0000, second try"
+ homework03/21400389_homework03.cpp | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+"Ga Ram Song, Tue Sep 26 07:10:01 2017 +0000, initial try with error"
+ homework03/21400389_homework03.cpp | 31 +++++++++++++++++++++++++++++++
+ 1 file changed, 31 insertions(+)
+
+"Ga Ram Song, Tue Sep 26 05:13:17 2017 +0000, homework04"
+ homework04/21400389_homework04.PNG | Bin 0 -> 5187 bytes
+ homework04/21400389_homework04.cpp |  28 ++++++++++++++++++++++++++++
+ 2 files changed, 28 insertions(+)
+
+"Ga Ram Song, Sun Sep 17 12:40:54 2017 +0000, rename the screenshot"
+ homework01/21400389_homework01.cc  |   8 ++++++++
+ homework01/21400389_homework01.jpg | Bin 0 -> 119630 bytes
+ 2 files changed, 8 insertions(+)
+
+"Ga Ram Song, Sun Sep 17 08:15:07 2017 +0000, 21400389_homework02.cc"
+ homework02/{hw2.jpg => 21400389_homework02.jpg} | Bin
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+"Ga Ram Song, Sun Sep 17 08:13:40 2017 +0000, 21400389_ homework02.cc"
+ homework02/hw2.GIF | Bin 25677 -> 0 bytes
+ homework02/hw2.jpg | Bin 0 -> 52458 bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+"Ga Ram Song, Sun Sep 17 08:08:04 2017 +0000, hw 02 final"
+ homework02/hw2.GIF | Bin 0 -> 25677 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+"Ga Ram Song, Sun Sep 17 08:05:08 2017 +0000, my homework 02"
+ homework02/21400389_homework02.cc | 30 ++++++++++++++++++++++++++++++
+ 1 file changed, 30 insertions(+)
+
+"Ga Ram Song, Thu Sep 14 12:45:06 2017 +0000, screen shot added"
+ "\354\272\241\354\262\230.GIF" | Bin 0 -> 55781 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+"Ga Ram Song, Thu Sep 14 12:42:24 2017 +0000, final"
+ 21400389_homework01.cc | 9 +++++----
+ 1 file changed, 5 insertions(+), 4 deletions(-)
+
+"Ga Ram Song, Thu Sep 14 12:23:42 2017 +0000, my first homework."
+ 21400389_homework01.cc | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+"GitHub, Fri Sep 8 10:20:11 2017 +0900, Update hello.cc"
+ hello.cc | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+"Joshua Jung, Fri Sep 8 10:16:52 2017 +0900, init"
+ README.md | 1 +
+ hello.cc  | 0
+ 2 files changed, 1 insertion(+)

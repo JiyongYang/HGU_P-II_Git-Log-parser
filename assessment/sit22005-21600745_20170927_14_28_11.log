@@ -1,0 +1,58 @@
+"Chris Hwanjin Choi, Mon Sep 25 09:34:58 2017 +0000, final"
+ Homework04/21600745_homework04.cpp | 1 +
+ 1 file changed, 1 insertion(+)
+
+"Chris Hwanjin Choi, Mon Sep 25 09:32:56 2017 +0000, errorsgit add .git add ."
+ Homework04/21600745_homework04.PNG | Bin 0 -> 10190 bytes
+ Homework04/21600745_homework04.cpp |  29 +++++++++++++++++++++++++++++
+ 2 files changed, 29 insertions(+)
+
+"Chris Hwanjin Choi, Sun Sep 24 07:27:52 2017 +0000, upload capture too"
+ Homework03/21600745_homework03.PNG | Bin 0 -> 13041 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+"Chris Hwanjin Choi, Sun Sep 24 07:26:23 2017 +0000, successful homework"
+ Homework03/21600745_homework03.cpp | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+"Chris Hwanjin Choi, Sun Sep 24 07:24:16 2017 +0000, Something wrong with the order of the score"
+ Homework03/21600745_homework03.cpp | 30 ++++++++++++++++++++++++++++++
+ 1 file changed, 30 insertions(+)
+
+"Chris Hwanjin Choi, Sun Sep 24 07:14:55 2017 +0000, HW#3 v0.1"
+ Homework03/21600745_homework03.cpp | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+"Chris Hwanjin Choi, Mon Sep 18 08:19:01 2017 +0000, final"
+ 21600745_homework01.cpp                           |  13 -------------
+ Code_Capture.PNG                                  | Bin 18529 -> 0 bytes
+ {Homework2 => Homework02}/21600745_homework02.cpp |   0
+ {Homework2 => Homework02}/Code_Capture_2.PNG      | Bin
+ 4 files changed, 13 deletions(-)
+
+"Chris Hwanjin Choi, Mon Sep 18 08:18:00 2017 +0000, resubmission with folder"
+ Homework01/21600745_homework01.cpp |  13 +++++++++++++
+ Homework01/Code_Capture.PNG        | Bin 0 -> 18529 bytes
+ 2 files changed, 13 insertions(+)
+
+"Chris Hwanjin Choi, Mon Sep 18 08:13:36 2017 +0000, final submission"
+ Homework2/Code_Capture_2.PNG | Bin 0 -> 29484 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+"Chris Hwanjin Choi, Mon Sep 18 08:11:38 2017 +0000, check if it's right- homwork02"
+ Homework2/21600745_homework02.cpp | 30 ++++++++++++++++++++++++++++++
+ 1 file changed, 30 insertions(+)
+
+"Chris Hwanjin Choi, Wed Sep 13 15:20:28 2017 +0000, final homework 01 code"
+ 21600745_homework01.cpp |  13 +++++++++++++
+ Code_Capture.PNG        | Bin 0 -> 18529 bytes
+ 2 files changed, 13 insertions(+)
+
+"GitHub, Fri Sep 8 10:20:11 2017 +0900, Update hello.cc"
+ hello.cc | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+"Joshua Jung, Fri Sep 8 10:16:52 2017 +0900, init"
+ README.md | 1 +
+ hello.cc  | 0
+ 2 files changed, 1 insertion(+)

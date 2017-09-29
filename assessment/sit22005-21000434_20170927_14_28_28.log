@@ -1,0 +1,27 @@
+"Hyundo Wang, Thu Sep 21 08:06:21 2017 +0000, 21000434_homework03"
+ Homework03/21000434_homework03.cpp |  30 ++++++++++++++++++++++++++++++
+ Homework03/21000434_homework03.png | Bin 0 -> 116453 bytes
+ 2 files changed, 30 insertions(+)
+
+"Hyundo Wang, Mon Sep 18 00:08:59 2017 +0000, 21000434_homework02"
+ Homework02/21000434_homework02.cpp |  29 +++++++++++++++++++++++++++++
+ Homework02/21000434_homework02.png | Bin 0 -> 398999 bytes
+ 2 files changed, 29 insertions(+)
+
+"Hyundo Wang, Sun Sep 17 00:01:45 2017 +0000, 21000434_homework01"
+ .../21000434_homework01.png                                 | Bin
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+"Hyundo Wang, Sat Sep 16 23:58:27 2017 +0000, 21000434_homework01"
+ homework01/21000434_homework01.cpp                     |  13 +++++++++++++
+ ...1\341\204\214\341\205\245\341\206\253 11.32.11.png" | Bin 0 -> 114463 bytes
+ 2 files changed, 13 insertions(+)
+
+"GitHub, Fri Sep 8 10:20:11 2017 +0900, Update hello.cc"
+ hello.cc | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+"Joshua Jung, Fri Sep 8 10:16:52 2017 +0900, init"
+ README.md | 1 +
+ hello.cc  | 0
+ 2 files changed, 1 insertion(+)

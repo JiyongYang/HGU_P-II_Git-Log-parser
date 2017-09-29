@@ -1,0 +1,47 @@
+"JueunKim, Sun Sep 24 07:03:10 2017 +0000, homework"
+ .../21300179_homework01                            | Bin
+ .../21300179_homework01.JPG                        | Bin
+ .../21300179_homework01.cc                         |   0
+ Homework02/21300179_homework02                     | Bin 9378 -> 0 bytes
+ Homework02/hello.cpp                               |  32 ---------------------
+ 5 files changed, 32 deletions(-)
+
+"JueunKim, Sun Sep 24 07:00:05 2017 +0000, homework04"
+ 21300179_homework01.cc             |  23 +++++++++++++++--------
+ Homework04/21300179_homework04.JPG | Bin 0 -> 19803 bytes
+ Homework04/21300179_homework04.cpp |  30 ++++++++++++++++++++++++++++++
+ 3 files changed, 45 insertions(+), 8 deletions(-)
+
+"JueunKim, Wed Sep 20 12:04:52 2017 +0000, hello"
+ Homework02/hello.cpp | 32 ++++++++++++++++++++++++++++++++
+ 1 file changed, 32 insertions(+)
+
+"JueunKim, Wed Sep 20 11:41:45 2017 +0000, homework3"
+ Homework03/21300179_homework03.JPG | Bin 0 -> 23139 bytes
+ Homework03/21300179_homework03.cpp |  30 ++++++++++++++++++++++++++++++
+ 2 files changed, 30 insertions(+)
+
+"JueunKim, Sun Sep 17 04:23:46 2017 +0000, homework02"
+ Homework02/21300179_homework02     | Bin 0 -> 9378 bytes
+ Homework02/21300179_homework02.JPG | Bin 0 -> 19462 bytes
+ Homework02/21300179_homework02.cpp |  32 ++++++++++++++++++++++++++++++++
+ 3 files changed, 32 insertions(+)
+
+"JueunKim, Wed Sep 13 12:19:12 2017 +0000, add image file"
+ 21300179_homework01.JPG | Bin 0 -> 58552 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+"JueunKim, Wed Sep 13 06:40:12 2017 +0000, add new file"
+ 21300179_homework01    | Bin 0 -> 9255 bytes
+ 21300179_homework01.cc |  15 +++++++++++++++
+ Makefile               |   8 ++++++++
+ 3 files changed, 23 insertions(+)
+
+"GitHub, Fri Sep 8 10:20:11 2017 +0900, Update hello.cc"
+ hello.cc | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+"Joshua Jung, Fri Sep 8 10:16:52 2017 +0900, init"
+ README.md | 1 +
+ hello.cc  | 0
+ 2 files changed, 1 insertion(+)

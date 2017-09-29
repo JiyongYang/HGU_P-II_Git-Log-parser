@@ -1,0 +1,39 @@
+"Gyutae Park, Thu Sep 21 00:47:09 2017 +0000, my-homework"
+ README.md | 1 -
+ hello.cc  | 7 -------
+ 2 files changed, 8 deletions(-)
+
+"Gyutae Park, Thu Sep 21 00:42:04 2017 +0000, my-homework"
+ hello.cc | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+"Gyutae Park, Wed Sep 20 14:29:37 2017 +0000, Homework03"
+ Homework03/21300278_homework03.png | Bin 106294 -> 287932 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+"Gyutae Park, Wed Sep 20 14:21:11 2017 +0000, homework03"
+ Homework03/21300278_homework03.png | Bin 0 -> 106294 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+"Gyutae Park, Wed Sep 20 14:14:56 2017 +0000, Homework03"
+ Homework03/21300278_homework03.cpp | 30 ++++++++++++++++++++++++++++++
+ 1 file changed, 30 insertions(+)
+
+"Gyutae Park, Wed Sep 20 13:10:50 2017 +0000, homework2"
+ Homework02/21300278_homework02.cpp |  29 +++++++++++++++++++++++++++++
+ Homework02/21300278_homework02.png | Bin 0 -> 78106 bytes
+ 2 files changed, 29 insertions(+)
+
+"Gyutae Park, Sun Sep 17 13:31:02 2017 +0000, 21300278_homework01"
+ Homework01/21300278_homework01.cpp |  13 +++++++++++++
+ Homework01/21300278_homework01.jpg | Bin 0 -> 83142 bytes
+ 2 files changed, 13 insertions(+)
+
+"GitHub, Fri Sep 8 10:20:11 2017 +0900, Update hello.cc"
+ hello.cc | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+"Joshua Jung, Fri Sep 8 10:16:52 2017 +0900, init"
+ README.md | 1 +
+ hello.cc  | 0
+ 2 files changed, 1 insertion(+)

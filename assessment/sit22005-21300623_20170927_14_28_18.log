@@ -1,0 +1,43 @@
+"Seungchan Lim, Sun Sep 24 15:24:29 2017 +0000, upload homework"
+ Homework03/21300623_homework03.cpp |  33 +++++++++++++++++++++++++++++++++
+ Homework03/21300623_homework03.png | Bin 0 -> 72625 bytes
+ 2 files changed, 33 insertions(+)
+
+"Seungchan Lim, Mon Sep 18 11:47:55 2017 +0000, upload homework"
+ Homework01/21300623_homework01.jpg | Bin 666204 -> 298728 bytes
+ Homework02/21300623_homework02.png | Bin 42926 -> 54675 bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+"Seungchan Lim, Mon Sep 18 11:33:31 2017 +0000, upload homework02"
+ Homework02/21300623_homework02.cpp |   4 ++--
+ Homework02/21300623_homework02.png | Bin 0 -> 42926 bytes
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+"Seungchan Lim, Mon Sep 18 11:28:20 2017 +0000, upload homework02"
+ .../21300623_homework01.cpp                        |   2 +-
+ .../21300623_homework01.jpg                        | Bin
+ Homework02/21300623_homework02.cpp                 |  29 +++++++++++++++++++++
+ Untitled                                           |   0
+ 4 files changed, 30 insertions(+), 1 deletion(-)
+
+"Seungchan Lim, Sun Sep 17 07:39:26 2017 +0000, upload homework01"
+ 21300623_homework01.cpp |  13 +++++++++++++
+ 21300623_homework01.jpg | Bin 0 -> 666204 bytes
+ 2 files changed, 13 insertions(+)
+
+"Seungchan Lim, Sat Sep 16 12:35:00 2017 +0000, remove text file"
+ 21300623_homework01.cpp | 1 -
+ 1 file changed, 1 deletion(-)
+
+"Seungchan Lim, Sat Sep 16 12:15:47 2017 +0000, my homework test"
+ 21300623_homework01.cpp | 1 +
+ 1 file changed, 1 insertion(+)
+
+"GitHub, Fri Sep 8 10:20:11 2017 +0900, Update hello.cc"
+ hello.cc | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+"Joshua Jung, Fri Sep 8 10:16:52 2017 +0900, init"
+ README.md | 1 +
+ hello.cc  | 0
+ 2 files changed, 1 insertion(+)

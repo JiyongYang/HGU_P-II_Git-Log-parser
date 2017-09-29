@@ -1,0 +1,40 @@
+"nasludin, Wed Sep 20 14:08:27 2017 +0000, homework2"
+ homework2/21400161_homework02.png            | Bin 0 -> 6153 bytes
+ homework2/21400161_homework02_c9 capture.png | Bin 0 -> 85131 bytes
+ homework2/21400161_homework2.cpp             |  29 +++++++++++++++++++++++++++
+ 3 files changed, 29 insertions(+)
+
+"nasludin, Wed Sep 20 13:49:51 2017 +0000, for test"
+ 21400161_homework01.png | Bin 0 -> 7506 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+"nasludin, Wed Sep 20 13:48:41 2017 +0000, homework1"
+ homework1 | 1 -
+ 1 file changed, 1 deletion(-)
+
+"GitHub, Mon Sep 18 23:46:09 2017 +0900, Delete 21400161_homework01.png"
+ 21400161_homework01.png | Bin 7506 -> 0 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+"nasludin, Mon Sep 18 14:44:29 2017 +0000, homework01"
+ 21400161_homework01.cpp | 14 ++++++++++++++
+ homework1               |  2 +-
+ 2 files changed, 15 insertions(+), 1 deletion(-)
+
+"nasludin, Mon Sep 18 14:32:13 2017 +0000, Merge branch 'master' of https://github.com/nasludin/sit22005-21400161"
+"nasludin, Mon Sep 18 14:16:31 2017 +0000, homework1"
+ homework1 | 1 +
+ 1 file changed, 1 insertion(+)
+
+"GitHub, Mon Sep 18 17:52:11 2017 +0900, Add files via upload"
+ 21400161_homework01.png | Bin 0 -> 7506 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+"GitHub, Fri Sep 8 10:20:11 2017 +0900, Update hello.cc"
+ hello.cc | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+"Joshua Jung, Fri Sep 8 10:16:52 2017 +0900, init"
+ README.md | 1 +
+ hello.cc  | 0
+ 2 files changed, 1 insertion(+)

@@ -1,0 +1,36 @@
+"GitHub, Tue Sep 26 10:38:09 2017 +0900, Update 21500854_homework04.cpp"
+ Homework04/21500854_homework04.cpp | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+
+"Grace Yeo, Mon Sep 25 11:13:00 2017 +0000, Homework04"
+ Homework04/21500854_homework04.JPG | Bin 0 -> 33040 bytes
+ Homework04/21500854_homework04.cpp |  36 +++++++++++++++++++++++++-----------
+ 2 files changed, 25 insertions(+), 11 deletions(-)
+
+"Grace Yeo, Thu Sep 21 12:33:41 2017 +0000, Homework2"
+ Homework03/21500854_homework03.JPG | Bin 0 -> 49581 bytes
+ Homework03/21500854_homework03.cpp |  29 +++++++++++++++++++++++++++++
+ Homework04/21500854_homework04.cpp |  13 +++++++++++++
+ 3 files changed, 42 insertions(+)
+
+"Grace Yeo, Sun Sep 17 13:05:33 2017 +0000, Homework02"
+ Homework02/21500854_homework02     | Bin 0 -> 9378 bytes
+ Homework02/21500854_homework02.JPG | Bin 0 -> 37917 bytes
+ Homework02/21500854_homework02.cpp |  28 ++++++++++++++++++++++++++++
+ 3 files changed, 28 insertions(+)
+
+"Grace Yeo, Sun Sep 17 12:34:51 2017 +0000, homework01"
+ 21500854_homework01     | Bin 0 -> 9205 bytes
+ 21500854_homework01.JPG | Bin 0 -> 24442 bytes
+ 21500854_homework01.cpp |  15 +++++++++++++++
+ Makefile                |   8 ++++++++
+ 4 files changed, 23 insertions(+)
+
+"GitHub, Fri Sep 8 10:20:11 2017 +0900, Update hello.cc"
+ hello.cc | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+"Joshua Jung, Fri Sep 8 10:16:52 2017 +0900, init"
+ README.md | 1 +
+ hello.cc  | 0
+ 2 files changed, 1 insertion(+)

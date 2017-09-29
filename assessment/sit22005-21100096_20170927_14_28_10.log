@@ -1,0 +1,22 @@
+"Sunyeob Kim, Tue Sep 19 10:28:52 2017 +0000, Final result of HW02 with jpeg file"
+ Homework02/21100096_homework02.JPG | Bin 0 -> 254594 bytes
+ Homework02/21100096_homework02.cpp |  16 +++++++++++++++-
+ 2 files changed, 15 insertions(+), 1 deletion(-)
+
+"Sunyeob Kim, Tue Sep 19 10:21:57 2017 +0000, Variable Declaration"
+ Homework02/21100096_homework02.cpp | 15 +++++++++++++++
+ 1 file changed, 15 insertions(+)
+
+"Sunyeob Kim, Mon Sep 18 14:17:45 2017 +0000, 21100096_homework01.cpp"
+ 21100096_homework01.JPG | Bin 0 -> 225651 bytes
+ 21100096_homework01.cpp |  13 +++++++++++++
+ 2 files changed, 13 insertions(+)
+
+"GitHub, Fri Sep 8 10:20:11 2017 +0900, Update hello.cc"
+ hello.cc | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+"Joshua Jung, Fri Sep 8 10:16:52 2017 +0900, init"
+ README.md | 1 +
+ hello.cc  | 0
+ 2 files changed, 1 insertion(+)

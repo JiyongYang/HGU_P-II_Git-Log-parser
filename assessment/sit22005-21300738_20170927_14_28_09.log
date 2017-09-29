@@ -1,0 +1,29 @@
+"GitHub, Wed Sep 20 01:51:12 2017 +0900, image of hw2"
+ homework2/21300738_homework02.PNG | Bin 0 -> 19318 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+"GitHub, Tue Sep 19 01:29:49 2017 +0900, Delete 21300738_homework02.cpp"
+ 21300738_homework02.cpp | 27 ---------------------------
+ 1 file changed, 27 deletions(-)
+
+"Hyesang Cho, Mon Sep 18 16:24:25 2017 +0000, Homework2 move to dir of homework2 from my-homework"
+ homework2/21300738_homework02.cpp | 27 +++++++++++++++++++++++++++
+ 1 file changed, 27 insertions(+)
+
+"Hyesang Cho, Mon Sep 18 16:09:26 2017 +0000, This is code of homework2"
+ 21300738_homework02.cpp | 27 +++++++++++++++++++++++++++
+ 1 file changed, 27 insertions(+)
+
+"Hyesang Cho, Sun Sep 17 14:25:32 2017 +0000, Fist Homwork"
+ 21300738_homework01.cpp | 13 +++++++++++++
+ 21300738_homework01.jpg | 13 +++++++++++++
+ 2 files changed, 26 insertions(+)
+
+"GitHub, Fri Sep 8 10:20:11 2017 +0900, Update hello.cc"
+ hello.cc | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+"Joshua Jung, Fri Sep 8 10:16:52 2017 +0900, init"
+ README.md | 1 +
+ hello.cc  | 0
+ 2 files changed, 1 insertion(+)
